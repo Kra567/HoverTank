@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/HeroSprites">
+        <file>IMG/Image2.png</file>
+        <file>IMG/Image5.png</file>
+        <file>IMG/Image7.png</file>
+    </qresource>
+    <qresource prefix="/EnemySprites">
+        <file>IMG/uebok.png</file>
+    </qresource>
+    <qresource prefix="/BulletSprites">
+        <file>IMG/BULLET.png</file>
+    </qresource>
+    <qresource prefix="/WallSprites">
+        <file>IMG/WALLT.png</file>
+        <file>IMG/Floor.png</file>
+    </qresource>
+</RCC>
